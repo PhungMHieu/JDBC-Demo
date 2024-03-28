@@ -1,2 +1,1 @@
-# JDBC-Demo
- 
+# Quản lý sách đơn giản
